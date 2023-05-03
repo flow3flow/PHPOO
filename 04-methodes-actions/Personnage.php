@@ -65,6 +65,8 @@ class Personnage
             // appel la méthode protégée qui initialise la dextérité
         }
 
+
+
         // Créez une méthode protégée qui va prendre les points de vie (avec le getter) et rajouter 3 lancés de dés
         // en utilisant la constant NB_FACE_DE et mettre à jour les points de vie (avec le setter)
 
